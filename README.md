@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Kidus Wegayehu
 
-🔌 **Electrical Engineer | Embedded Systems Developer | PCB Designer |creative graphics designer and illustrator **
+##🔌 **Electrical Engineer | Embedded Systems Developer | PCB Designer |creative graphics designer and illustrator **
 
 I'm passionate about embedded systems and power electronics, from designing efficient PCBs to writing robust firmware. With skills in both technical and creative areas, I love tackling complex challenges in electronics and design.
 
